@@ -1,0 +1,11 @@
+vl53l0x_usr.c:19:6:delay	24	static
+vl53l0x_usr.c:24:6:error	8	static
+vl53l0x_usr.c:31:9:sensor_io_read	16	static
+vl53l0x_usr.c:36:9:sensor_io_write	16	static
+vl53l0x_usr.c:41:16:I2Cx_ReadData	40	static
+vl53l0x_usr.c:53:13:I2Cx_WriteData	40	static
+vl53l0x_usr.c:64:6:ledOn	8	static
+vl53l0x_usr.c:68:6:ledOff	8	static
+vl53l0x_usr.c:72:9:read_id_a	8	static
+vl53l0x_usr.c:79:9:read_id_b	8	static
+vl53l0x_usr.c:86:6:sensor_ini	8	static
